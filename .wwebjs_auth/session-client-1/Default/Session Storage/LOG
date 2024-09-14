@@ -1,2 +1,3 @@
-2024/09/14-16:11:56.881 955d Creating DB /home/wirtz/projects/zap-bot/.wwebjs_auth/session-client-1/Default/Session Storage since it was missing.
-2024/09/14-16:11:56.885 955d Reusing MANIFEST /home/wirtz/projects/zap-bot/.wwebjs_auth/session-client-1/Default/Session Storage/MANIFEST-000001
+2024/09/14-17:18:16.244 bd78 Reusing MANIFEST /home/wirtz/projects/zap-bot/.wwebjs_auth/session-client-1/Default/Session Storage/MANIFEST-000001
+2024/09/14-17:18:16.245 bd78 Recovering log #3
+2024/09/14-17:18:16.245 bd78 Reusing old log /home/wirtz/projects/zap-bot/.wwebjs_auth/session-client-1/Default/Session Storage/000003.log 
